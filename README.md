@@ -36,4 +36,25 @@ A **Coordinate Measuring Machine** is a high-precision tool used to:
 - **Gantry CMM**: For large objects.
 - **Portable CMM**: Handheld for on-site measurements.
 
+---
+
+## Core Functions of a CMM
+- **Measuring Geometries:** Dimensions, angles, and shapes.
+- **Inspecting Tolerances:** Verifying that parts meet acceptable variation limits.
+- **Generating Reports:** For quality assurance and client review.
+
+---
+
+## Key Components of a CMM
+
+### 1. **Probes**
+- **Touch Probes:** Physically contact surfaces to measure.
+- **Laser Probes:** Use lasers for non-contact measurements.
+- **Vision Systems:** Cameras for fragile or small parts.
+
+### 2. **Axes**
+- Operate on 3 or 5 axes (X, Y, Z, and rotations).
+
+### 3. **Controller**
+- A computer system that operates the CMM and processes measurement data.
 
