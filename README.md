@@ -58,3 +58,35 @@ A **Coordinate Measuring Machine** is a high-precision tool used to:
 ### 3. **Controller**
 - A computer system that operates the CMM and processes measurement data.
 
+---
+
+## Workflow for CMM Operations
+
+### 1. **Setup**
+- Align the part to a reference point (datum).
+- Calibrate the probe for accurate measurements.
+
+### 2. **Programming**
+- Use software like **PC-DMIS**, **Calypso**, or **PolyWorks** to define measurement paths.
+
+### 3. **Measurement**
+- Collect data points via touch or scanning probes.
+
+### 4. **Data Analysis**
+- Compare data to blueprints and identify deviations.
+
+### 5. **Report Generation**
+- Compile and analyze data for quality control.
+
+---
+
+## Common Tools and Software
+
+- **CMM Software:**
+  - **PC-DMIS:** Widely used for programming and automation.
+  - **Calypso (Zeiss):** Advanced for complex geometries.
+  - **PolyWorks:** For large-scale projects.
+
+- **CAD Integration:** Import CAD files for precise inspections.
+
+
